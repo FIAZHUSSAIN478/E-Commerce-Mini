@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Leather Bag",
+    "price": 200000,
+    "image": "/images/bag1.jpg",
+    "category": "Bags",
+    "description": "Handcrafted Italian leather bag with premium gold zippers."
+  },
+  {
+    "id": 2,
+    "name": "Diamond Wrist Watch",
+    "price": 5599,
+    "image": "/images/watch1.jpg",
+    "category": "Accessories",
+    "description": "Elegant diamond-studded wrist watch with stainless steel finish."
+  },
+  {
+    "id": 3,
+    "name": "Silk Designer Scarf",
+    "price": 999,
+    "image": "/images/scarf1.jpg",
+    "category": "Fashion",
+    "description": "Soft luxury silk scarf in minimalist patterns."
+  },
+  {
+    "id": 4,
+    "name": "Smartphone Pro Max",
+    "price": 1299,
+    "image": "/images/phone1.jpg",
+    "category": "Electronics",
+    "description": "Flagship model with advanced AI camera and 1TB storage."
+  },
+  {
+    "id": 5,
+    "name": "Luxury Perfume Set",
+    "price": 799,
+    "image": "/images/perfume1.jpg",
+    "category": "Fragrance",
+    "description": "Blend of rare oud and floral notes for an everlasting aroma."
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Sneakers",
+    "price": 599,
+    "image": "/images/sneaker1.jpg",
+    "category": "Footwear",
+    "description": "Premium white leather sneakers with cushioned soles."
+  },
+  {
+    "id": 7,
+    "name": "Gold Frame Sunglasses",
+    "price": 349,
+    "image": "/images/sunglasses1.jpg",
+    "category": "Accessories",
+    "description": "Ultra-light sunglasses with polarized lenses and gold frame."
+  },
+  {
+    "id": 8,
+    "name": "Designer Blazer",
+    "price": 1599,
+    "image": "/images/blazer1.jpg",
+    "category": "Apparel",
+    "description": "Tailored slim-fit blazer for formal and luxury events."
+  },
+  {
+    "id": 9,
+    "name": "Wireless Headphones Pro",
+    "price": 499,
+    "image": "/images/headphone1.jpg",
+    "category": "Electronics",
+    "description": "Noise-cancelling, high-fidelity headphones with 40hr battery life."
+  },
+  {
+    "id": 10,
+    "name": "Classic Wallet",
+    "price": 299,
+    "image": "/images/wallet1.jpg",
+    "category": "Accessories",
+    "description": "Genuine leather wallet with RFID protection and multiple slots."
+  }
+]
